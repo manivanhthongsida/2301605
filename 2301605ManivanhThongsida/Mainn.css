@@ -1,0 +1,28 @@
+footer {background-color: #a5a1a1;
+                 
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 13px;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+  }
+  
+  .container img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 15px;
+  }
+  .image {
+    position: absolute;
+    width: 220px; /* Set the width of the images */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  
